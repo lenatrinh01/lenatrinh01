@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, game dev, web dev, & learning new things!
 - 🌱 I’m currently learning SQL and Unity
 - 💞️ I'm open to collaborations! 
-- 📫 How to reach me @lenatrinh01 [Lenatrinh01@gmail.com]
+- 📫 How to reach me @lenatrinh01 (Lenatrinh01@gmail.com)
 - 😄 Pronouns: She/ Her
 - ⚡ Fun fact: Cats are the cutest 
 
